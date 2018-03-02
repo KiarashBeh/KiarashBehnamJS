@@ -1,0 +1,21 @@
+
+
+#myDiv1, #myDiv2, #myDiv3, #myDiv4, #myDiv5, #myDiv6{
+    border-style: double;
+    border-width: 4px;
+	border-color: light gray;
+	float: left;
+	width : 600px;
+	height: 500px;
+	margin: 10px;
+}
+
+#myDiv7 {
+    border-style: double;
+    border-width: 4px;
+	border-color: light gray;
+	float: left;
+	width : 1230px;
+	height: 800px;
+	margin: 10px;
+}
